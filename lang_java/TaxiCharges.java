@@ -36,6 +36,6 @@ class TaxiCharges {
         int distance = s.nextInt();
         s.close();
 
-        System.out.println(calculateCharges(distance));
+        System.out.println("Total Charges: " + calculateCharges(distance));
     }
 }
