@@ -3,15 +3,8 @@ package lang_java;
 import java.util.*;
 
 class TaxiCharges {
-    
-    public static void main(String[] args) {
 
-        Scanner s = new Scanner(System.in);
-
-        System.out.println("Enter distance in KM.:");
-
-        int distance = s.nextInt();
-        s.close();
+    static int calculateCharges(int distance) {
 
         int charges = 0;
 
@@ -32,6 +25,17 @@ class TaxiCharges {
 
         charges+=50;
 
-        System.out.println(charges);
+        return charges;
+    }
+    
+    public static void main(String[] args) {
+
+        Scanner s = new Scanner(System.in);
+
+        System.out.println("Enter distance in KM.:");
+        int distance = s.nextInt();
+        s.close();
+
+        System.out.println(calculateCharges(distance));
     }
 }
