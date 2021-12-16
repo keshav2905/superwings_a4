@@ -1,0 +1,15 @@
+C:\Users\keshav\Documents\RMgX_Super_Wings\superwings_a4\lang_c#\bin\Debug\net6.0\lang_c#.exe
+C:\Users\keshav\Documents\RMgX_Super_Wings\superwings_a4\lang_c#\bin\Debug\net6.0\lang_c#.deps.json
+C:\Users\keshav\Documents\RMgX_Super_Wings\superwings_a4\lang_c#\bin\Debug\net6.0\lang_c#.runtimeconfig.json
+C:\Users\keshav\Documents\RMgX_Super_Wings\superwings_a4\lang_c#\bin\Debug\net6.0\lang_c#.dll
+C:\Users\keshav\Documents\RMgX_Super_Wings\superwings_a4\lang_c#\bin\Debug\net6.0\ref\lang_c#.dll
+C:\Users\keshav\Documents\RMgX_Super_Wings\superwings_a4\lang_c#\bin\Debug\net6.0\lang_c#.pdb
+C:\Users\keshav\Documents\RMgX_Super_Wings\superwings_a4\lang_c#\obj\Debug\net6.0\lang_c#.csproj.AssemblyReference.cache
+C:\Users\keshav\Documents\RMgX_Super_Wings\superwings_a4\lang_c#\obj\Debug\net6.0\lang_c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\keshav\Documents\RMgX_Super_Wings\superwings_a4\lang_c#\obj\Debug\net6.0\lang_c#.AssemblyInfoInputs.cache
+C:\Users\keshav\Documents\RMgX_Super_Wings\superwings_a4\lang_c#\obj\Debug\net6.0\lang_c#.AssemblyInfo.cs
+C:\Users\keshav\Documents\RMgX_Super_Wings\superwings_a4\lang_c#\obj\Debug\net6.0\lang_c#.csproj.CoreCompileInputs.cache
+C:\Users\keshav\Documents\RMgX_Super_Wings\superwings_a4\lang_c#\obj\Debug\net6.0\lang_c#.dll
+C:\Users\keshav\Documents\RMgX_Super_Wings\superwings_a4\lang_c#\obj\Debug\net6.0\ref\lang_c#.dll
+C:\Users\keshav\Documents\RMgX_Super_Wings\superwings_a4\lang_c#\obj\Debug\net6.0\lang_c#.pdb
+C:\Users\keshav\Documents\RMgX_Super_Wings\superwings_a4\lang_c#\obj\Debug\net6.0\lang_c#.genruntimeconfig.cache
